@@ -1,0 +1,1 @@
+<b>{{#tag:pre|{{{1}}}|style=border:1px solid #0000ff;background-color:#bbddff;color:#0000ff;margin-left:40px}}</b>
