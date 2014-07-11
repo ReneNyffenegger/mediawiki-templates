@@ -16,3 +16,9 @@ from
 where
   a = b;
 }}
+
+{{Heading2|Inserting a vertical bar into a text}}
+
+{{Text|1=Here is a vertical bar: | can you see it?}}
+
+{{Text|1=The above does not quite produce what was intented, but with {{!}} a vertical bar can be inserted!}}
